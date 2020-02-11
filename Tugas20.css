@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+body{color:white;
+text-align:center;
+}
+.container{height:50px;
+display:flex;
+background: rgba(170,170,170,1.00);
+justify-content: space-around}
+.container2{height:100px;
+width:50px;
+background:rgba(170,170,170,1.00);
+display:flex;
+justify-content:space-around;
+flex-direction: column;}
+.container .box{width:150px}
+.container2 .box{height:40px}
+.box1{background:aqua;}
+.box2{background:rgba(79,205,109,1.00)}
+.box3{background:rgba(76,90,172,1.00);}
+.box4{background:rgba(87,0,153,1.00)}
+.box5{background:rgba(19,19,34,1.00)}
+.box6{background:rgba(217,231,0,1.00)}
+.box7{background:orange}
+.box8{background:rgba(179,0,2,1.00);}
+.box9{background:rgba(75,59,60,1.00)}
+.box10{background:rgba(22,22,22,1.00)}
